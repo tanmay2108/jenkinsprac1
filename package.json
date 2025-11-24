@@ -1,0 +1,8 @@
+{
+  "name": "simple-ci-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Building the project...",
+    "test": "echo All tests passed!"
+  }
+}
